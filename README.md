@@ -19,7 +19,7 @@ Una aplicación web hecha con **React** que permite consultar el clima actual de
 - [React](https://reactjs.org/)
 - HTML5 + CSS3
 - Fetch API o Axios
-- [OpenWeatherMap API](https://openweathermap.org/api) (u otra)
+- [OpenWeatherMap API](https://openweathermap.org/api)
 
 ---
 

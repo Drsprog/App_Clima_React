@@ -10,7 +10,7 @@ Una aplicación web hecha con **React** que permite consultar el clima actual de
 - ☁️ Muestra temperatura, humedad, clima actual y más
 - 🌍 Diseño responsivo
 - ⚛️ Creado con React y hooks (`useState`, `useEffect`)
-- 🌐 Consumo de API externa (por ejemplo: OpenWeatherMap)
+- 🌐 Consumo de API externa (OpenWeatherMap)
 
 ---
 

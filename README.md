@@ -14,12 +14,6 @@ Una aplicación web hecha con **React** que permite consultar el clima actual de
 
 ---
 
-## 🖼️ Captura de pantalla
-
-*(Incluye aquí una imagen si tienes, o puedes usar una más adelante)*
-
----
-
 ## 🛠️ Tecnologías usadas
 
 - [React](https://reactjs.org/)

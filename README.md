@@ -26,7 +26,7 @@ Una aplicación web hecha con **React** que permite consultar el clima actual de
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/weatherapp-react.git
+git clone https://github.com/Drsprog/App_Clima_React
 cd weatherapp-react
 npm install
 npm start
